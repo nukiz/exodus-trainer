@@ -22,3 +22,4 @@ jaffander55
 - [ ] the first cheat
 - [ ] ideas for games
 - [ ] maybe an universal launcher for no extra downloads?
+- [ ] finish up things
