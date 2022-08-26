@@ -19,7 +19,8 @@ jaffander55
 
 - [x] loader + database system
 - [x] gather up developers for the cheat
+- [ ] server for database and secure platform for passwords/databasse
 - [ ] the first cheat
 - [ ] ideas for games
 - [ ] maybe an universal launcher for no extra downloads?
-- [ ] finish up things
+- [ ] finish up
