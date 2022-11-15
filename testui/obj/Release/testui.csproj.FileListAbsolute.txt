@@ -1,0 +1,14 @@
+C:\Users\Anton\source\repos\testui\bin\Release\testui.exe.config
+C:\Users\Anton\source\repos\testui\bin\Release\testui.exe
+C:\Users\Anton\source\repos\testui\bin\Release\testui.pdb
+C:\Users\Anton\source\repos\testui\bin\Release\Memory.dll
+C:\Users\Anton\source\repos\testui\bin\Release\Memory.xml
+C:\Users\Anton\source\repos\testui\obj\Release\testui.csproj.AssemblyReference.cache
+C:\Users\Anton\source\repos\testui\obj\Release\testui.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anton\source\repos\testui\obj\Release\testui.Form1.resources
+C:\Users\Anton\source\repos\testui\obj\Release\testui.Properties.Resources.resources
+C:\Users\Anton\source\repos\testui\obj\Release\testui.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\testui\obj\Release\testui.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\testui\obj\Release\testui.csproj.CopyComplete
+C:\Users\Anton\source\repos\testui\obj\Release\testui.exe
+C:\Users\Anton\source\repos\testui\obj\Release\testui.pdb

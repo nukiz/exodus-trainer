@@ -1,0 +1,16 @@
+C:\Users\Anton\source\repos\testui\bin\Debug\testui.exe.config
+C:\Users\Anton\source\repos\testui\bin\Debug\testui.exe
+C:\Users\Anton\source\repos\testui\bin\Debug\testui.pdb
+C:\Users\Anton\source\repos\testui\obj\Debug\testui.csproj.AssemblyReference.cache
+C:\Users\Anton\source\repos\testui\obj\Debug\testui.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anton\source\repos\testui\obj\Debug\testui.Form1.resources
+C:\Users\Anton\source\repos\testui\obj\Debug\testui.Properties.Resources.resources
+C:\Users\Anton\source\repos\testui\obj\Debug\testui.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\testui\obj\Debug\testui.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\testui\obj\Debug\testui.exe
+C:\Users\Anton\source\repos\testui\obj\Debug\testui.pdb
+C:\Users\Anton\source\repos\testui\bin\Debug\Memory.dll
+C:\Users\Anton\source\repos\testui\bin\Debug\Memory.xml
+C:\Users\Anton\source\repos\testui\obj\Debug\testui.csproj.CopyComplete
+C:\Users\Anton\source\repos\testui\obj\Debug\testui.Form2.resources
+C:\Users\Anton\source\repos\testui\obj\Debug\testui.overlay.resources
