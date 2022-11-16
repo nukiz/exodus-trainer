@@ -1,0 +1,17 @@
+C:\Users\Anton\source\repos\testui\obj\Debug\testui.csproj.AssemblyReference.cache
+C:\Users\Anton\source\repos\testui\obj\Debug\testui.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anton\source\repos\testui\obj\Debug\testui.Form1.resources
+C:\Users\Anton\source\repos\testui\obj\Debug\testui.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\testui\obj\Debug\testui.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\testui\bin\Debug\Memory.dll
+C:\Users\Anton\source\repos\testui\bin\Debug\Memory.xml
+C:\Users\Anton\source\repos\testui\obj\Debug\testui.csproj.CopyComplete
+C:\Users\Anton\source\repos\testui\obj\Debug\testui.Form2.resources
+C:\Users\Anton\source\repos\testui\obj\Debug\testui.overlay.resources
+C:\Users\Anton\source\repos\testui\bin\Debug\exodus.exe.config
+C:\Users\Anton\source\repos\testui\bin\Debug\exodus.exe
+C:\Users\Anton\source\repos\testui\bin\Debug\exodus.pdb
+C:\Users\Anton\source\repos\testui\obj\Debug\exodus.arraylist.resources
+C:\Users\Anton\source\repos\testui\obj\Debug\exodus.Properties.Resources.resources
+C:\Users\Anton\source\repos\testui\obj\Debug\exodus.exe
+C:\Users\Anton\source\repos\testui\obj\Debug\exodus.pdb
