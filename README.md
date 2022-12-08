@@ -1,26 +1,4 @@
-## evolve
+# exodus ! growtopia trainer
 
-**evolve** developers only github
-
-here developers may commit and or create evolve related projects and folders.
-
-developers can also add to this list and update it. a webhook will be made to discord for some updates.
-
-consult everyone first!
-
-current ones with access:
-nukiz
-alex
-lava
-zyph
-jaffander55
-
-## to do
-
-- [x] loader + database system
-- [x] gather up developers for the cheat
-- [ ] server for database and secure platform for passwords/databasse
-- [ ] the first cheat
-- [ ] ideas for games
-- [ ] maybe an universal launcher for no extra downloads?
-- [ ] finish up
+feel free to use this as a base, ofc its a little messy and was in the progress of being rewritten but lazy me lol
+opcodes were for 4.0X don't remember, but all modules instaban. 
